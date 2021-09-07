@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0 400px;
+  margin-bottom: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.placeholder{
+  border-radius: 50%;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.profile_pic{
+  text-align: center;
+}
+
+.contacts{
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cred{
+  color: gray;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.main_section{
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.main_header{
+  margin: 10px 0;
+}
+
+i{
+  margin: 0%10px;
+}
+
+.main_disc{
+  margin: 10px 0;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.section_head{
+  margin: 10px 0;
+  font-size: 35px;
+}
+
+.skills_main{
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+.skills_disc{
+  margin: 10px 0;
+  margin-bottom: 20px;
+}
+
+.skills_list{
+  margin: 10px 0 20px 30px;
+}
+
+.bl_t{
+  font-weight: bold;
+}
+
+.comp_name{
+  margin: 20px 0;
+  font-size: 25px;
+}
+
+.vac{
+  display: flex;
+}
+
+.vac_date{
+  margin-left: 30px;
+}
+
+.exp_list{
+  margin-left: 30px;
+}
